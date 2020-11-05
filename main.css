@@ -3,3 +3,13 @@ div {
     width: 700px;
     margin-left: calc( (100% - 700px) / 2 );  /*butina deti tarpus aplink matematinius operatorius */
 }
+
+    header {
+        display: inline-block;
+        width: 100%;
+    }
+
+    main {
+        display: inline-block;
+        width: 100%;
+    }
